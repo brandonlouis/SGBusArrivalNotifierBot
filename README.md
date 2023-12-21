@@ -4,7 +4,7 @@
 
 <div align="center">
 
-[Telegram Bot (Inactive)](https://t.me/SGBusArrivalNotifierBot)
+[Telegram Bot](https://t.me/SGBusArrivalNotifierBot)
 
 A Telegram chatbot which notifies users when their buses are certain duration away
 
